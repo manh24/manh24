@@ -1,5 +1,5 @@
 <!-- ===== BANNER ===== -->
-<div align="center"> <img src="4.jpg" alt="Banner" width="100%" />
+<div align="center"> <img src="i.jpg" alt="Banner" width="100%" />
 </div>
 
 <br/>
