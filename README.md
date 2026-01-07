@@ -1,4 +1,4 @@
-# Hi, I'm Manh 👋
+# Hi, I'm Duc Manh 👋
 
 🎓 IT Student  
 💻 Interested in Web, Mobile & AI  
