@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](hello world.jpg)
+![Banner](helloworld.jpg)
 
 </div>
 # Hi, I'm Duc Manh 👋
