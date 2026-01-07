@@ -1,6 +1,6 @@
 <!-- ===== BANNER ===== -->
 <div align="center">
-  <img src="1.gif" alt="Banner" height="220" />
+  <img src="1.gif" alt="Banner" width="100%" style="max-height:220px;" />
 </div>
 
 <br/>
