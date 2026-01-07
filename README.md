@@ -55,7 +55,4 @@
 
 <br/>
 
-<!-- ===== FOOTER ===== -->
-<p align="center">
-  <i>Always learning, always building.</i>
-</p>
+
