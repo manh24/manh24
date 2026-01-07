@@ -1,8 +1,6 @@
 <!-- ===== BANNER ===== -->
-<div align="center">
-  <img src="1.gif" alt="Banner" height="220" />
+<div align="center"> <img src="1.gif" alt="Banner" width="100%" />
 </div>
-
 
 <br/>
 
