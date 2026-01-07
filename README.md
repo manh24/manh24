@@ -1,3 +1,5 @@
+![Banner](4.jpg)
+
 # Hi, I'm Duc Manh 👋
 
 🎓 IT Student  
