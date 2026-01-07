@@ -1,6 +1,6 @@
 <!-- ===== BANNER ===== -->
 <div align="center">
-  <img src="helloworld.jpg" alt="Banner" width="100%" />
+  <img src="1.jpg" alt="Banner" width="100%" />
 </div>
 
 <br/>
